@@ -8,7 +8,7 @@ This game features:<br>
 * Challenging Boss Battle
 
 Demo:<br>
-![Gameplay](./assets/demo.mp4)
+![Gameplay](./assets/demo.gif)
 
 ### Prerequisites
 ---
