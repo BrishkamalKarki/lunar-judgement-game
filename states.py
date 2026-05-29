@@ -1,6 +1,6 @@
 from pygame import Vector2
 
-# Eldermoon states  
+# Eldermoon states in here  
 Eldermoon_comming = 1
 Eldermoon_state = "jump_lp" # default 
 Eldermoon_facing = "right" # default 
